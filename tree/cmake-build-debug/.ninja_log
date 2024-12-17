@@ -1,0 +1,6 @@
+# ninja log v5
+525	726	7549116759565345	tree__map1.exe	6d377806eb2ab6f0
+3	309	7549163667244676	build.ninja	7d39fcb5d12bfad1
+4	524	7549116757550481	CMakeFiles/tree__map1.dir/tree1.cpp.obj	2f1afd28959b3bcb
+5	661	7549164534896949	CMakeFiles/tree__map1.dir/tree1.cpp.obj	6c59b2256f5726f7
+661	927	7549164537340442	tree__map1.exe	6d377806eb2ab6f0
